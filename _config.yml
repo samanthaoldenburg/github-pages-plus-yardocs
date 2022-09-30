@@ -28,7 +28,7 @@ url: "https://samanthaoldenburg.github.io/github-pages-plus-yardocs/"
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
