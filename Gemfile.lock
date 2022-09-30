@@ -73,6 +73,9 @@ GEM
       coderay
       yard
 
+PLATFORMS
+  x86_64-darwin-20
+
 DEPENDENCIES
   commonmarker
   http_parser.rb (~> 0.6.0)
